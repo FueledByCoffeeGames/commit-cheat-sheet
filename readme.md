@@ -1,18 +1,18 @@
-####eat 
+#### eat 
 - actual feature implementation
 
-####style 
+#### style 
 - code style and code clean up
-####test 
+#### test 
 - actual test implementation
-####fix 
+#### fix 
 - bug fix
-####refactor
+#### refactor
  - refactoring that doesn't affect the behavior of the code
-####chore
+#### chore
  - no production code changes, but more like configuration and setup
 
-###Examples
+### Examples
 
 - feat(users) add authentication
 - fix(logout) clean up cookie
